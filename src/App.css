@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app {
+  display: flex;
+  gap: 16px;
+  justify-content: stretch;
+}
+
+.key {
+  appearance: none;
+  border: 1px solid #fff;
+  width: 100px;
+  border-radius: 5px;
+  background: none;
+  font-size: 82px;
+  color: #fff;
+}
